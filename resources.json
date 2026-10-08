@@ -16,7 +16,14 @@
       "ru": "Что такое психологическое благополучие и как о нем заботиться?",
       "ja": "心理的ウェルビーイングとは何か、そしてそのケア方法"
     },
-    "url": "https://web.swps.pl/278-cp-import/badanie/11881-wszystko-co-powiniene-wiedzie-o-szczciu"
+    "url": {
+      "pl": "https://web.swps.pl/278-cp-import/badanie/11881-wszystko-co-powiniene-wiedzie-o-szczciu",
+      "en": "https://www.psychologytoday.com/us/basics/happiness",
+      "es": "https://www.psychologytoday.com/es/basicos/felicidad",
+      "de": "https://www.psychologytoday.com/de/grundlagen/glueck",
+      "ru": "https://strefawiedzy.swps.pl/artykuly",
+      "ja": "https://strefawiedzy.swps.pl/artykuly"
+    }
   },
   {
     "title": {
@@ -33,9 +40,16 @@
       "es": "¿Por qué nos sentimos solos y cómo construir relaciones más profundas?",
       "de": "Warum fühlen wir uns einsam und wie bauen wir tiefere Beziehungen auf?",
       "ru": "Почему мы чувствуем себя одинокими и как строить более глубокие отношения?",
-      "ja": "なぜ人は孤独を感じるのか、そしてどの様により深いつながりを築くのか"
+      "ja": "なぜ人は孤独を感じるのか、探求と思いやりの必要性"
     },
-    "url": "https://strefawiedzy.swps.pl/artykuly/epidemia-samotnosci-a-potrzeba-wspolczucia"
+    "url": {
+      "pl": "https://strefawiedzy.swps.pl/artykuly/epidemia-samotnosci-a-potrzeba-wspolczucia",
+      "en": "https://www.hhs.gov/surgeongeneral/priorities/loneliness/index.html",
+      "es": "https://www.psychologytoday.com/es/basicos/soledad",
+      "de": "https://www.psychologytoday.com/de/grundlagen/einsamkeit",
+      "ru": "https://strefawiedzy.swps.pl/artykuly",
+      "ja": "https://strefawiedzy.swps.pl/artykuly"
+    }
   },
   {
     "title": {
@@ -54,7 +68,14 @@
       "ru": "Запишитесь на прием к проверенному специалисту рядом с вами или онлайн.",
       "ja": "お近くまたはオンラインで信頼できる専門家の診察を予約しましょう。"
     },
-    "url": "https://www.znanylekarz.pl/"
+    "url": {
+      "pl": "https://www.znanylekarz.pl/",
+      "en": "https://www.psychologytoday.com/us/therapists",
+      "es": "https://www.doctoralia.es/",
+      "de": "https://www.jameda.de/",
+      "ru": "https://www.znanylekarz.pl/",
+      "ja": "https://www.psychologytoday.com/us/therapists"
+    }
   },
   {
     "title": {
@@ -73,26 +94,25 @@
       "ru": "Практические техники расслабления и эмоциональной регуляции.",
       "ja": "実践的なリラクゼーション技法と感情の調整。"
     },
-    "url": "https://strefawiedzy.swps.pl/artykuly"
+    "url": {
+      "pl": "https://strefawiedzy.swps.pl/artykuly",
+      "en": "https://www.nimh.nih.gov/health/publications/so-stressed-out-fact-sheet",
+      "es": "https://www.apa.org/topics/stress/gestion",
+      "de": "https://www.neurologen-und-psychiater-im-netz.org/",
+      "ru": "https://strefawiedzy.swps.pl/artykuly",
+      "ja": "https://strefawiedzy.swps.pl/artykuly"
+    }
   },
   {
     "title": {
       "pl": "Wpływ snu na zdrowie psychiczne",
-      "en": "The impact of sleep on mental health",
-      "es": "El impacto del sueño en la salud mental",
-      "de": "Der Einfluss von Schlaf auf die mentale Gesundheit",
-      "ru": "Влияние сна на психическое здоровье",
-      "ja": "睡眠がメンタルヘルスに与える影響"
     },
     "subtitle": {
       "pl": "Dlaczego jakość snu jest kluczem do stabilizacji emocjonalnej?",
-      "en": "Why sleep quality is key to emotional stability?",
-      "es": "¿Por qué la calidad del sueño es clave para la estabilidad emocional?",
-      "de": "Warum Schlafqualität der Schlüssel zu emotionaler Stabilität ist?",
-      "ru": "Почему качество сна является ключом к эмоциональной стабильности?",
-      "ja": "天性の睡眠の質が感情の安定に不可欠な理由とは？"
     },
-    "url": "https://strefawiedzy.swps.pl/artykuly"
+    "url": {
+      "pl": "https://strefawiedzy.swps.pl/artykuly",
+    }
   },
   {
     "title": {
@@ -111,6 +131,13 @@
       "ru": "Это приложение предназначено исключительно для личной саморефлексии и не заменяет профессиональную диагностику или терапию. При проблемах с психическим здоровьем обратитесь к специалисту.",
       "ja": "本アプリは個人の自己内省のみを目的としており、専門的な診断や心理療法に代わるものではありません。メンタルヘルスの問題がある場合は専門家にご相談ください。"
     },
-    "url": "https://www.znanylekarz.pl/"
+    "url": {
+      "pl": "https://www.znanylekarz.pl/",
+      "en": "",
+      "es": "",
+      "de": "",
+      "ru": "",
+      "ja": ""
+    }
   }
 ]
