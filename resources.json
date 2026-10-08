@@ -2,119 +2,30 @@
   {
     "title": {
       "pl": "Wszystko, co powinieneś wiedzieć o szczęściu",
-      "en": "Everything you should know about happiness",
-      "es": "Todo lo que deberías saber sobre la felicidad",
-      "de": "Alles, was Sie über das Glück wissen sollten",
-      "ru": "Всё, что вам нужно знать о счастье",
-      "ja": "幸せについて知っておくべきこと"
+ 
     },
     "subtitle": {
       "pl": "Czym jest dobrostan psychiczny i jak o niego dbać? (Badanie SWPS)",
-      "en": "What is psychological well-being and how to care for it?",
-      "es": "¿Qué es el bienestar psicológico y cómo cuidarlo?",
-      "de": "Was ist psychisches Wohlbefinden und wie pflegt man es?",
-      "ru": "Что такое психологическое благополучие и как о нем заботиться?",
-      "ja": "心理的ウェルビーイングとは何か、そしてそのケア方法"
+
     },
     "url": {
       "pl": "https://web.swps.pl/278-cp-import/badanie/11881-wszystko-co-powiniene-wiedzie-o-szczciu",
-      "en": "https://www.psychologytoday.com/us/basics/happiness",
-      "es": "https://www.psychologytoday.com/es/basicos/felicidad",
-      "de": "https://www.psychologytoday.com/de/grundlagen/glueck",
-      "ru": "https://strefawiedzy.swps.pl/artykuly",
-      "ja": "https://strefawiedzy.swps.pl/artykuly"
+    
     }
   },
   {
     "title": {
       "pl": "Epidemia samotności a potrzeba współczucia",
-      "en": "Loneliness epidemic and the need for compassion",
-      "es": "La epidemia de la soledad y la necesidad de compasión",
-      "de": "Die Epidemie der Einsamkeit und das Bedürfnis nach Mitgefühl",
-      "ru": "Эпидемия одиночества и необходимость сострадания",
-      "ja": "孤独の流行と思いやりの必要性"
+
     },
     "subtitle": {
       "pl": "Dlaczego czujemy się samotni i jak budować głębsze relacje?",
-      "en": "Why do we feel lonely and how can we build deeper connections?",
-      "es": "¿Por qué nos sentimos solos y cómo construir relaciones más profundas?",
-      "de": "Warum fühlen wir uns einsam und wie bauen wir tiefere Beziehungen auf?",
-      "ru": "Почему мы чувствуем себя одинокими и как строить более глубокие отношения?",
-      "ja": "なぜ人は孤独を感じるのか、探求と思いやりの必要性"
+     
     },
     "url": {
       "pl": "https://strefawiedzy.swps.pl/artykuly/epidemia-samotnosci-a-potrzeba-wspolczucia",
-      "en": "https://www.hhs.gov/surgeongeneral/priorities/loneliness/index.html",
-      "es": "https://www.psychologytoday.com/es/basicos/soledad",
-      "de": "https://www.psychologytoday.com/de/grundlagen/einsamkeit",
-      "ru": "https://strefawiedzy.swps.pl/artykuly",
-      "ja": "https://strefawiedzy.swps.pl/artykuly"
     }
   },
-  {
-    "title": {
-      "pl": "Znajdź psychologa lub psychoterapeutę",
-      "en": "Find a psychologist or psychotherapist",
-      "es": "Encuentra un psicólogo o psicoterapeuta",
-      "de": "Finden Sie einen Psychologen oder Psychotherapeuten",
-      "ru": "Найдите психолога или психотерапевта",
-      "ja": "心理学者・心理療法士を探す"
-    },
-    "subtitle": {
-      "pl": "Umów wizytę u sprawdzonego specjalisty w Twojej okolicy lub online.",
-      "en": "Book an appointment with a verified specialist near you or online.",
-      "es": "Reserva una cita con un especialista verificado cerca de ti o en línea.",
-      "de": "Buchen Sie einen Termin bei einem verifizierten Spezialisten in Ihrer Nähe oder online.",
-      "ru": "Запишитесь на прием к проверенному специалисту рядом с вами или онлайн.",
-      "ja": "お近くまたはオンラインで信頼できる専門家の診察を予約しましょう。"
-    },
-    "url": {
-      "pl": "https://www.znanylekarz.pl/",
-      "en": "https://www.psychologytoday.com/us/therapists",
-      "es": "https://www.doctoralia.es/",
-      "de": "https://www.jameda.de/",
-      "ru": "https://www.znanylekarz.pl/",
-      "ja": "https://www.psychologytoday.com/us/therapists"
-    }
-  },
-  {
-    "title": {
-      "pl": "Jak radzić sobie ze stresem na co dzień",
-      "en": "How to manage daily stress",
-      "es": "Cómo gestionar el estrés diario",
-      "de": "Wie man mit täglichem Stress umgeht",
-      "ru": "Как справляться с ежедневным стрессом",
-      "ja": "日々のストレスに対処する方法"
-    },
-    "subtitle": {
-      "pl": "Praktyczne techniki relaksacyjne i regulacja emocjonalna.",
-      "en": "Practical relaxation techniques and emotional regulation.",
-      "es": "Técnicas prácticas de relajación y regulación emocional.",
-      "de": "Praktische Entspannungstechniken und emotionale Regulierung.",
-      "ru": "Практические техники расслабления и эмоциональной регуляции.",
-      "ja": "実践的なリラクゼーション技法と感情の調整。"
-    },
-    "url": {
-      "pl": "https://strefawiedzy.swps.pl/artykuly",
-      "en": "https://www.nimh.nih.gov/health/publications/so-stressed-out-fact-sheet",
-      "es": "https://www.apa.org/topics/stress/gestion",
-      "de": "https://www.neurologen-und-psychiater-im-netz.org/",
-      "ru": "https://strefawiedzy.swps.pl/artykuly",
-      "ja": "https://strefawiedzy.swps.pl/artykuly"
-    }
-  },
-  {
-    "title": {
-      "pl": "Wpływ snu na zdrowie psychiczne",
-    },
-    "subtitle": {
-      "pl": "Dlaczego jakość snu jest kluczem do stabilizacji emocjonalnej?",
-    },
-    "url": {
-      "pl": "https://strefawiedzy.swps.pl/artykuly",
-    }
-  },
-  {
     "title": {
       "pl": "UWAGA :",
       "en": "WARNING :",
